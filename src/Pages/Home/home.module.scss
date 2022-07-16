@@ -1,0 +1,25 @@
+.container {
+  background-color: var(--white);
+  min-height: 100vh;
+  position: relative;
+  // border: 2px solid red;
+  .navbarContainer {
+    min-height: 80px;
+  }
+  .apartmentContainer {
+    min-height: 80px;
+    width: 100%;
+  }
+  .footerContainer {
+    min-height: 80px;
+    width: 100%;
+  }
+}
+
+// @media screen and (max-width: 700px) {
+//   .container {
+//     .contentContainer {
+//       width: 95%;
+//     }
+//   }
+// }
