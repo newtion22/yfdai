@@ -157,6 +157,8 @@ const TokenSwap = () => {
     }
     return false;
   });
+
+  console.log(fArray);
   // console.log(result);
   // console.log(`This is the balance ${userYfdaiBal}`);
   // setStakeValue(userYfdaiBal);
